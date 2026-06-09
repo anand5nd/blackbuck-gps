@@ -1191,15 +1191,15 @@
           <input type="text" placeholder="Number of Vehicles">
           <select>
             <option value="" disabled selected>Your City</option>
-            <option>Chennai</option>
-            <option>Coimbatore</option>
+            <option>Karaikudi</option>
+            <option>Devakottai</option>
             <option>Madurai</option>
-            <option>Salem</option>
+            <option>Ramanathapuram</option>
+            <option>Aranthangi</option>
+            <option>Thiruppathur</option>
+            <option>Puthukottai</option>
+            <option>Manamelkudi</option>
             <option>Trichy</option>
-            <option>Tirunelveli</option>
-            <option>Erode</option>
-            <option>Vellore</option>
-            <option>Tiruppur</option>
             <option>Other</option>
           </select>
           <textarea placeholder="Any specific requirements or questions?"></textarea>
